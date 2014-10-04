@@ -1,0 +1,10 @@
+html, body {
+	height: 100%;
+	cursor: crosshair;
+}
+
+.particle {
+	background-color: hsla(0, 0%, 50%, 0.05);
+	border-radius: 50%;
+	position: absolute;
+}
